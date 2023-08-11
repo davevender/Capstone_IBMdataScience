@@ -1,0 +1,18 @@
+Finding Insights Visually
+
+Now with the dashboard completed, you should be able to use it to analyze SpaceX launch data, and answer the following questions:
+
+1. Which site has the largest successful launches?
+2. Which site has the highest launch success rate?
+3. Which payload range(s) has the highest launch success rate?
+4. Which payload range(s) has the lowest launch success rate?
+5. Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest
+    launch success rate?
+
+
+1. KSC LC-39A (41.7%)
+2. KSC LC-39A (76.6%)
+3. Considering all sites, the payload range with the highest launch success rate should be between 3000 and 4000 kg (72.7%)
+4. Considering all sites, the payload ranges with the lowest launch success rate are 500-1500, 4000-45000 and 5500-9000 (0%)
+5. Considering all sites, the F9 booster with the highest success rate is B5. However B5 was launched only once so maybe it is not that representative... 
+   Among the boosters that have been launched several times, the one with the highest success rate is FT (66.6%)
